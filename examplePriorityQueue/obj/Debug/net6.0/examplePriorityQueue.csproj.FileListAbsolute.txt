@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\examplePriorityQueue\examplePriorityQueue\bin\Debug\net6.0\examplePriorityQueue.exe
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\examplePriorityQueue\examplePriorityQueue\bin\Debug\net6.0\examplePriorityQueue.deps.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\examplePriorityQueue\examplePriorityQueue\bin\Debug\net6.0\examplePriorityQueue.runtimeconfig.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\examplePriorityQueue\examplePriorityQueue\bin\Debug\net6.0\examplePriorityQueue.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\examplePriorityQueue\examplePriorityQueue\bin\Debug\net6.0\examplePriorityQueue.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\examplePriorityQueue\examplePriorityQueue\obj\Debug\net6.0\examplePriorityQueue.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\examplePriorityQueue\examplePriorityQueue\obj\Debug\net6.0\examplePriorityQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\examplePriorityQueue\examplePriorityQueue\obj\Debug\net6.0\examplePriorityQueue.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\examplePriorityQueue\examplePriorityQueue\obj\Debug\net6.0\examplePriorityQueue.AssemblyInfo.cs
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\examplePriorityQueue\examplePriorityQueue\obj\Debug\net6.0\examplePriorityQueue.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\examplePriorityQueue\examplePriorityQueue\obj\Debug\net6.0\examplePriorityQueue.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\examplePriorityQueue\examplePriorityQueue\obj\Debug\net6.0\refint\examplePriorityQueue.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\examplePriorityQueue\examplePriorityQueue\obj\Debug\net6.0\examplePriorityQueue.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\examplePriorityQueue\examplePriorityQueue\obj\Debug\net6.0\examplePriorityQueue.genruntimeconfig.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\examplePriorityQueue\examplePriorityQueue\obj\Debug\net6.0\ref\examplePriorityQueue.dll
